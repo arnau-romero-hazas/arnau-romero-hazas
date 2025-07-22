@@ -26,12 +26,6 @@ I'm a **Full Stack Developer** based in Spain, passionate about clean code, grea
 
 ## 🚀 Projects
 
-### 🔗 [BondyApp Fullstack Demo](https://github.com/arnau-romero-hazas/bondyapp)
-> Built to demonstrate alignment with BondyApp's stack:  
-> Fullstack Flutter + Node.js app using JWT, architecture layering, and local persistence.
-
----
-
 ### ♠️ [PokApp](https://github.com/arnau-romero-hazas/PokApp)
 > **A social app for poker game tracking and ranking**  
 > Organize poker nights, join games, track wins, and compete across seasons with real-time rankings.
@@ -61,6 +55,29 @@ I'm a **Full Stack Developer** based in Spain, passionate about clean code, grea
 - Backend: `Node.js`, `Express`, `MongoDB`
 - RESTful API with JWT authentication
 - Modular codebase with reusable components and services
+
+---
+
+### 🔗 [BondyApp Fullstack Demo](https://github.com/arnau-romero-hazas/bondyapp)
+> Built to demonstrate alignment with BondyApp's stack:  
+> Fullstack Flutter + Node.js app using JWT, architecture layering, and local persistence.
+
+---
+
+### 🤖 [AI Resume Analyzer](https://github.com/arnau-romero-hazas/ai-resume-analyzer)
+> **AI-powered web app for analyzing resumes and generating personalized job market feedback**
+
+**📄 Features**
+- Upload and parse PDFs
+- AI-powered analysis using OpenAI API
+- Store results in **DynamoDB**
+- Files uploaded to **AWS S3**
+- Instant tailored suggestions for improvement
+
+**🧱 Tech Stack**
+- Frontend: `Next.js`
+- Backend: `FastAPI`
+- Integrations: `AWS S3`, `DynamoDB`, `OpenAI API`
 
 ---
 
